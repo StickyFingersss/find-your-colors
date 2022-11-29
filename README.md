@@ -1,4 +1,4 @@
-# find-your-colors
+# Find-your-colors
 I wanted to learn how to work with colors and understand the principle of generating numbers in JS.
 This application solves the problem of color matching for designers.
 To change the color palette, press the space bar. Lock the color you like by clicking on the lock.
